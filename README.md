@@ -64,10 +64,8 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
-<img width="1492" height="989" alt="image" src="https://github.com/user-attachments/assets/e5ebfe09-01a8-44ce-9179-23080a13a0af" />
+<img width="1492" height="989" alt="image" src="https://github.com/user-attachments/assets/ec5a64e0-f73a-4b9e-bbd0-c0483e169c32" />
 
-```
 # Results
 
 Thus Experimental verification of Signal sampling using various types is simulated and verified.
