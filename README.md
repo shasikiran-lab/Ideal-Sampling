@@ -1,3 +1,5 @@
+#1.Experimental verification of Signal sampling using various types
+
 # Aim
 To experimentally verify signal sampling using various types.
 
